@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Models
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Output
+data/output/
